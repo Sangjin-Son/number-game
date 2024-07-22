@@ -8,6 +8,9 @@
 // 유저가 1~100 범위 밖에 숫자를 입력하면 알려준다. 기회를 깍지 안흔다
 // 유저가 이미 입력한 숫자를 또 입력하면, 알려준다, 기회를 깍지 않느다.
 
+// test
+
+let test = 0;
 let computerNum = 0;
 let playButton = document.getElementById("play-button");
 let userInput = document.getElementById("user-input");
